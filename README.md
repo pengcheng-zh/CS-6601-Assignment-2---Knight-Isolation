@@ -1,3 +1,5 @@
+# If need, contact me with email : zhangpch666@163.com or wechat : YSYY66
+
 # Assignment 2 - Knight Isolation
 
 ## Instructor: Dr. Thomas Ploetz
